@@ -277,7 +277,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## ✍️ Authors
 
-- **Your Name** - *Initial work* - [MayankNCodes](https://github.com/MayankNCodes)
+- **Mayank** - *Student* - [MayankNCodes](https://github.com/MayankNCodes)
 
 ## 🙏 Acknowledgments
 
